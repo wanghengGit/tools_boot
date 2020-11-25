@@ -1,0 +1,25 @@
+
+f
+java:S2259""KA "NullPointerException" could be thrown; "messageDigest" is nullable here.(¥¾ùÿÿÿÿ
+W
+java:S2259>"AA "NullPointerException" could be thrown; "md5" is nullable here.(ÚÈ“²
+\
+java:S2259B"AA "NullPointerException" could be thrown; "md5" is nullable here.(è”€Îúÿÿÿÿ
+u
+java:S1149#"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¾Î›Š
+u
+java:S1149E"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ğÃäõ
+˜
+java:S1130"}Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException', as it cannot be thrown from method's body.(¡úÚğüÿÿÿÿ
+š
+java:S1130"Remove the declaration of thrown exception 'java.security.NoSuchAlgorithmException', as it cannot be thrown from method's body.(¡úÚğüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ì˜ˆ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…õè
+Z
+java:S11246"EReorder the modifiers to comply with the Java Language Specification.(ÉÊ›S
+O
+java:S4719>"9Replace charset name argument with StandardCharsets.UTF_8(ÚÈ“²
+S
+java:S1197B"8Move the array designator from the variable to the type.(è”€Îúÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ñŞŠ
+V	java:S125$"<This block of commented-out lines of code should be removed.(‰üıÓÿÿÿÿÿ

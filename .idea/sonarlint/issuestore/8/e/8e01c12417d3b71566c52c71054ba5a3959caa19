@@ -1,0 +1,20 @@
+
+x
+java:S1488="]Immediately return this expression instead of assigning it to the temporary variable "bytes".(Šüöøÿÿÿÿ
+u
+java:S1149C"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ô—®ú
+u
+java:S1149U"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+u
+java:S1149z"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(®ß£•
+U
+java:S1118	":Add a private constructor to hide the implicit public one.(Õåø€ûÿÿÿÿ
+h	java:S100o"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ ê¶ÿÿÿÿÿ
+S	java:S106u"9Replace this use of System.out or System.err by a logger.(¡¯Î¥øÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(®‰Õ¦ûÿÿÿÿ
+I
+java:S1144"3Remove this unused private "parseVariables" method.(É‘ïç
+E
+java:S11447"/Remove this unused private "hexStr2Str" method.(ÄçÌ®
+H
+java:S1144y"-Remove this unused private "intToHex" method.(û„²éşÿÿÿÿ

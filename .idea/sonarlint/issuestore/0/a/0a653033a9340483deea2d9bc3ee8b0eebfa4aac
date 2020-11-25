@@ -1,0 +1,13 @@
+
+u
+java:S4165."`Remove this useless assignment; "wb" already holds the assigned value along all execution paths.(íøÁ5
+u
+java:S4165#"`Remove this useless assignment; "wb" already holds the assigned value along all execution paths.(íøÁ5
+h
+java:S2095'"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(à¸¾íıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ô¨¶ÿøÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ãüÙ¹ıÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(òè¡ş
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(”‰ñ„
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(ó¾¯ÿÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
