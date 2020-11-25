@@ -1,0 +1,22 @@
+
+J
+java:S3740+"/Provide the parametrized type for this generic.(’Ü†øÿÿÿÿ
+[
+java:S1192"FDefine a constant instead of duplicating this literal "utf-8" 4 times.(µÌÕM
+c
+java:S2259w"HA "NullPointerException" could be thrown; "connection" is nullable here.(•™ğåıÿÿÿÿ
+z
+java:S1149R"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(«Äâüÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ë¢ñãûÿÿÿÿ
+Z
+java:S2147]"DCombine this catch with the one at line 91, which has the same body.(ï­£Ä
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(šŠ•üùÿÿÿÿ
+T
+java:S4719P"9Replace charset name argument with StandardCharsets.UTF_8(ñâÿ¶ùÿÿÿÿ
+E
+java:S20932"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+u
+java:S2293‚"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤È²€şÿÿÿÿ
+Q	java:S125C"<This block of commented-out lines of code should be removed.(ğ¢à
+Q	java:S125E"<This block of commented-out lines of code should be removed.(Çæ

@@ -19,7 +19,9 @@
         <druid.verison>1.1.0</druid.verison>
         <mysql.verison>5.0.4</mysql.verison>
         <logback.verion>1.2.3</logback.verion>
-        <lombok.version>1.16.18</lombok.version>
+        <lombok.version>1.18.2</lombok.version>
+        <metadata.version>2.15.0</metadata.version>
+        <http.version>6.0</http.version>
     </properties>
 
     <dependencies>
@@ -64,8 +66,20 @@
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
-            <version>1.18.2</version>
+            <version>${lombok.version}</version>
             <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.drewnoakes</groupId>
+            <artifactId>metadata-extractor</artifactId>
+            <version>${metadata.version}</version>
+        </dependency>
+
+        <!-- 一个处理HTTP请求的库 -->
+        <dependency>
+            <groupId>com.github.kevinsawicki</groupId>
+            <artifactId>http-request</artifactId>
+            <version>${http.version}</version>
         </dependency>
         <!--tk通用mapper-->
         <dependency>

@@ -1,6 +1,6 @@
 package com.kit.controller;
 
-import com.kit.util.UploadFileUtil;
+import com.kit.util.file.UploadFileUtil;
 import com.netflix.client.http.HttpRequest;
 import io.swagger.annotations.ApiImplicitParam;
 import io.swagger.annotations.ApiImplicitParams;
